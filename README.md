@@ -12,6 +12,8 @@ le code "test_neural_network.py" permet de tester les résultats du réseau de n
 
 le code "draw_number.py" permet de tester le réseau de neurone sur des images dessinées en temps réel
 
+Je n'ai pas pu ajouter le jeu de donnée par trop volumineux pour github, il s'agit du célèbre MNIST trouvable sur le site http://yann.lecun.com/exdb/mnist/ et ici convertit au format csv
+
 
 
 
