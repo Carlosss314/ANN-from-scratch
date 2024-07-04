@@ -1,5 +1,3 @@
-réseau de neurones pour reconnaître des chiffres, codé en pur python et numpy
-
 paramètres et performances lors du dernier entraînement:
     train_score: ≃88%
     test_score: ≃88%
