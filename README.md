@@ -2,11 +2,11 @@
 
 réseau de neurones pour reconnaître des chiffres, codé en utilisant seulement le module Numpy
 
-le réseau de neurones et le code nécessaire à son entraînement correspond aux fichiers "code2.py" et "code3.py" (il y en a deux versions, la deuxième contenant une couche de neurones supplémentaire)
+le réseau de neurones et le code nécessaire à son entraînement correspondent aux fichiers "code2.py" et "code3.py" (il y en a deux versions, la deuxième contenant une couche de neurones supplémentaire)
 
 les dossiers "weights_and_biais" et "weights_and_biais2" contiennent les poids des réseaux de neurone respectifs
 
-les captures d'écrans correspondent aux courbes d'entraînememnt des réseaux de neurones
+les captures d'écrans sont les courbes d'entraînememnt des réseaux de neurones
 
 le code "test_neural_network.py" permet de tester les résultats du réseau de neurones sur quelques images du jeu de données
 
