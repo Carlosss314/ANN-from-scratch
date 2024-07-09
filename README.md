@@ -1,6 +1,6 @@
 # ANN-from-scratch
 
-réseau de neurones pour reconnaître des chiffres, codé en pur python et numpy
+réseau de neurones pour reconnaître des chiffres, codé en utilisant seulement le module Numpy
 
 le réseau de neurones et le code nécessaire à son entraînement correspond aux fichiers "code2.py" et "code3.py" (il y en a deux versions, la deuxième contenant une couche de neurones supplémentaire)
 
